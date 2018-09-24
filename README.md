@@ -1,7 +1,7 @@
 # OBJETOS INTELIGENTES CONECTADOS 5º sem. 2018
 
 ## Turma 05J12
-## Projeto: "nome do projeto"
+## Projeto: Genius
 ## Integrantes do grupo:
 
 * Bruno Dutra de Oliveira - TIA: 41614437
