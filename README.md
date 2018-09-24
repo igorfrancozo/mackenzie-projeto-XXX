@@ -1,13 +1,13 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# OBJETOS INTELIGENTES CONECTADOS 5º sem. 2018
 
-## Turma XXX
+## Turma 05J12
 ## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Bruno Dutra de Oliveira - TIA: 41614437
+* Cayo Henrique Rodrigues Queiroz - TIA: 41625811
+* Fernando Couto Medicci - TIA: 31656269
+* Gustavo de Souza Morozi - TIA: 31622641
 
 ## Descrição resumida do projeto
 
